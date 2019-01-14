@@ -64,3 +64,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'simple_form', '~> 4.0'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'actionpack', '~> 5.2', '>= 5.2.2'
+gem 'ckeditor', '~> 4.1'
